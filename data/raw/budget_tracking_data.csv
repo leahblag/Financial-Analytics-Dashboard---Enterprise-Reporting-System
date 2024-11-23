@@ -1,0 +1,11 @@
+Period,Department,Planned_Budget,Actual_Spend,Variance,Forecast_Next_Period,Category,Quarter,YTD_Budget_Utilization,Budget_Owner
+2023-01-31,Marketing,50000,52500,2500,51000,Operating,Q1,105%,John Smith
+2023-02-28,Sales,75000,73000,-2000,,Operating,Q1,97.3%,Sarah Johnson
+2023-03-31,IT,60000,65000,5000,63000,OPERATING,Q1,108.3%,Mike Wilson
+2023-04-30,Marketing,52000,,,-2000,Operating,Q2,,John Smith
+2023-05-31,Operations,45000,48000,3000,,Capital,Q2,106.7%,Lisa Brown
+2023-06-30,sales,78000,82000,4000,79000,Operating,Q2,105.1%,Sarah Johnson
+2023-07-31,IT,62000,61000,-1000,64000,operating,Q3,98.4%,Mike Wilson
+2023-08-31,MARKETING,54000,57500,3500,55000,Capital,Q3,106.5%,John Smith
+2023-09-30,Operations,47000,46000,-1000,48000,CAPITAL,Q3,97.9%,Lisa Brown
+2023-10-31,Sales,76000,79500,3500,77000,Operating,Q4,104.6%,Sarah Johnson

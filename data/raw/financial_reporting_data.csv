@@ -1,0 +1,11 @@
+Transaction_Date,Account_Number,Transaction_Type,Amount,Department,Status,Description,Posting_Reference,Currency,Cost_Center
+2023-01-15,AC001,Income,$1234.56,Sales,Completed,Client Payment #445,REF001,USD,CC001
+1/16/2023,AC002,expense,$2345.67,Marketing,Pending,Office Supplies,REF002,usd,CC002
+17-01-2023,AC001,INCOME,"3,456.78",Sales,completed,Client Payment #446,REF003,USD,CC001
+2023-01-18,AC004,Expense,"(4,567.89)",IT,In Progress,Software Licenses,REF004,USD,CC003
+19/01/2023,AC005,income,5678.90,,,Hardware Purchase,REF005,USD,CC003
+2023-01-15,AC001,Income,$1234.56,Sales,Completed,Client Payment #445,REF001,USD,CC001
+20-01-2023,AC007,Expense,7890.12,HR,Pending,Training Materials,,USD,
+2023-01-21,AC008,Income,8901.23,Finance,Completed,Interest Income,REF007,usd,CC004
+2023-01-22,AC009,EXPENSE,"$10,234.56",,In Progress,Consulting Fees,REF008,USD,CC005
+2023-01-23,AC010,Income,11234.56,Sales,COMPLETED,Client Payment #447,REF009,USD,CC001

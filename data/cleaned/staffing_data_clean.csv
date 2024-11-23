@@ -1,0 +1,9 @@
+Employee_ID,Department,Shift_Date,Shift_Start,Shift_End,Hours_Worked,Position,Certification_Status,Overtime_Hours,Break_Hours,Skill_Level,Pay_Rate
+E001,ER,2023-01-15,1900-01-01 07:00:00,1900-01-01 19:00:00,12,Rn,Active,4,1,Senior,45.0
+E002,ICU,2023-01-15,1900-01-01 07:00:00,1900-01-01 19:00:00,12,Rn,Expired,4,1,Junior,35.0
+E004,Surgery,2023-01-16,1900-01-01 07:00:00,1900-01-01 19:00:00,12,Surgeon,Active,4,1,Senior,120.0
+E005,ER,2023-01-16,1900-01-01 15:00:00,1900-01-01 23:00:00,8,Rn,,0,1,Mid-Level,40.0
+E007,Surgery,2023-01-17,1900-01-01 07:00:00,1900-01-01 19:00:00,12,Surgeon,Active,4,1,Senior,115.0
+E002,ICU,2023-01-17,1900-01-01 07:00:00,1900-01-01 19:00:00,12,Rn,Expired,4,0,Junior,35.0
+E008,ER,2023-01-17,1900-01-01 15:00:00,1900-01-01 23:00:00,8,Rn,Active,0,1,Mid-level,40.0
+E009,ICU,2023-01-18,1900-01-01 07:00:00,1900-01-01 19:00:00,12,Rn,Active,4,1,Senior,45.0

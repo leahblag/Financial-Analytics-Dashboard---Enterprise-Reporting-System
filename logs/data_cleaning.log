@@ -1,0 +1,91 @@
+2024-11-23 15:29:51,997:ERROR:File ../data/raw/financial_reporting_data.csv not found.
+2024-11-23 15:29:51,997:ERROR:File ../data/raw/budget_tracking_data.csv not found.
+2024-11-23 15:29:51,998:ERROR:File ../data/raw/staffing_data.csv not found.
+2024-11-23 15:29:51,998:ERROR:One or more datasets failed to load. Exiting the cleaning process.
+2024-11-23 15:32:03,536:ERROR:File ../data/raw/financial_reporting_data.csv not found.
+2024-11-23 15:32:03,536:ERROR:File ../data/raw/budget_tracking_data.csv not found.
+2024-11-23 15:32:03,536:ERROR:File ../data/raw/staffing_data.csv not found.
+2024-11-23 15:32:03,542:ERROR:One or more datasets failed to load. Exiting the cleaning process.
+2024-11-23 15:36:29,734:INFO:Data loaded successfully from C:/Project/data/raw/financial_reporting_data.csv.
+2024-11-23 15:36:29,737:INFO:Data loaded successfully from C:/Project/data/raw/budget_tracking_data.csv.
+2024-11-23 15:36:29,750:INFO:Data loaded successfully from C:/Project/data/raw/staffing_data.csv.
+2024-11-23 15:36:29,750:INFO:Cleaning financial reporting data...
+2024-11-23 15:36:29,771:INFO:Standardized date formats.
+2024-11-23 15:42:15,961:INFO:Data loaded successfully from C:/Project/data/raw/financial_reporting_data.csv.
+2024-11-23 15:42:15,961:INFO:Data loaded successfully from C:/Project/data/raw/budget_tracking_data.csv.
+2024-11-23 15:42:15,971:INFO:Data loaded successfully from C:/Project/data/raw/staffing_data.csv.
+2024-11-23 15:42:15,971:INFO:Cleaning financial reporting data...
+2024-11-23 15:42:15,971:INFO:Standardized date formats.
+2024-11-23 15:43:39,168:INFO:Data loaded successfully from C:/Project/data/raw/financial_reporting_data.csv.
+2024-11-23 15:43:39,180:INFO:Data loaded successfully from C:/Project/data/raw/budget_tracking_data.csv.
+2024-11-23 15:43:39,182:INFO:Data loaded successfully from C:/Project/data/raw/staffing_data.csv.
+2024-11-23 15:43:39,182:INFO:Cleaning financial reporting data...
+2024-11-23 15:43:39,182:INFO:Standardized date formats.
+2024-11-23 15:44:21,674:INFO:Data loaded successfully from C:/Project/data/raw/financial_reporting_data.csv.
+2024-11-23 15:44:21,674:INFO:Data loaded successfully from C:/Project/data/raw/budget_tracking_data.csv.
+2024-11-23 15:44:21,674:INFO:Data loaded successfully from C:/Project/data/raw/staffing_data.csv.
+2024-11-23 15:44:21,674:INFO:Cleaning financial reporting data...
+2024-11-23 15:44:21,674:INFO:Standardized date formats.
+2024-11-23 15:46:51,283:INFO:Data loaded successfully from C:/Project/data/raw/financial_reporting_data.csv.
+2024-11-23 15:46:51,283:INFO:Data loaded successfully from C:/Project/data/raw/budget_tracking_data.csv.
+2024-11-23 15:46:51,294:INFO:Data loaded successfully from C:/Project/data/raw/staffing_data.csv.
+2024-11-23 15:46:51,294:INFO:Cleaning financial reporting data...
+2024-11-23 15:46:51,294:INFO:Standardized date formats.
+2024-11-23 15:46:51,311:INFO:Standardized categorical values.
+2024-11-23 15:46:51,344:INFO:Removed rows with missing critical values.
+2024-11-23 15:46:51,360:INFO:Dropped duplicate rows.
+2024-11-23 15:46:51,360:INFO:Cleaning budget tracking data...
+2024-11-23 15:46:51,377:INFO:Standardized department and category values.
+2024-11-23 15:46:51,383:INFO:Recalculated variances.
+2024-11-23 15:46:51,383:INFO:Filled missing forecast values with mean.
+2024-11-23 15:46:51,397:INFO:Removed rows with missing critical values.
+2024-11-23 15:46:51,397:INFO:Cleaning staffing data...
+2024-11-23 15:46:51,399:INFO:Standardized position and certification status values.
+2024-11-23 15:46:51,400:INFO:Resolved scheduling conflicts.
+2024-11-23 15:46:51,427:INFO:Corrected overtime hours.
+2024-11-23 15:46:51,434:INFO:Removed duplicates and handled missing data.
+2024-11-23 15:46:51,448:ERROR:Error saving cleaned data to ../data/cleaned/financial_reporting_data_clean.csv: Cannot save file into a non-existent directory: '..\data\cleaned'
+2024-11-23 15:46:51,448:ERROR:Error saving cleaned data to ../data/cleaned/budget_tracking_data_clean.csv: Cannot save file into a non-existent directory: '..\data\cleaned'
+2024-11-23 15:46:51,449:ERROR:Error saving cleaned data to ../data/cleaned/staffing_data_clean.csv: Cannot save file into a non-existent directory: '..\data\cleaned'
+2024-11-23 15:50:01,674:INFO:Data loaded successfully from C:/Project/data/raw/financial_reporting_data.csv.
+2024-11-23 15:50:01,675:INFO:Data loaded successfully from C:/Project/data/raw/budget_tracking_data.csv.
+2024-11-23 15:50:01,675:INFO:Data loaded successfully from C:/Project/data/raw/staffing_data.csv.
+2024-11-23 15:50:01,675:INFO:Cleaning financial reporting data...
+2024-11-23 15:50:01,675:INFO:Standardized date formats.
+2024-11-23 15:50:01,675:INFO:Standardized categorical values.
+2024-11-23 15:50:01,692:INFO:Removed rows with missing critical values.
+2024-11-23 15:50:01,692:INFO:Dropped duplicate rows.
+2024-11-23 15:50:01,692:INFO:Cleaning budget tracking data...
+2024-11-23 15:50:01,692:INFO:Standardized department and category values.
+2024-11-23 15:50:01,692:INFO:Recalculated variances.
+2024-11-23 15:50:01,692:INFO:Filled missing forecast values with mean.
+2024-11-23 15:50:01,692:INFO:Removed rows with missing critical values.
+2024-11-23 15:50:01,692:INFO:Cleaning staffing data...
+2024-11-23 15:50:01,701:INFO:Standardized position and certification status values.
+2024-11-23 15:50:01,706:INFO:Resolved scheduling conflicts.
+2024-11-23 15:50:01,713:INFO:Corrected overtime hours.
+2024-11-23 15:50:01,713:INFO:Removed duplicates and handled missing data.
+2024-11-23 15:50:01,721:ERROR:Error saving cleaned data to ../data/cleaned/financial_reporting_data_clean.csv: Cannot save file into a non-existent directory: '..\data\cleaned'
+2024-11-23 15:50:01,723:ERROR:Error saving cleaned data to ../data/cleaned/budget_tracking_data_clean.csv: Cannot save file into a non-existent directory: '..\data\cleaned'
+2024-11-23 15:50:01,724:ERROR:Error saving cleaned data to ../data/cleaned/staffing_data_clean.csv: Cannot save file into a non-existent directory: '..\data\cleaned'
+2024-11-23 15:57:08,921:INFO:Data loaded successfully from C:/Project/data/raw/financial_reporting_data.csv.
+2024-11-23 15:57:08,931:INFO:Data loaded successfully from C:/Project/data/raw/budget_tracking_data.csv.
+2024-11-23 15:57:08,938:INFO:Data loaded successfully from C:/Project/data/raw/staffing_data.csv.
+2024-11-23 15:57:08,939:INFO:Cleaning financial reporting data...
+2024-11-23 15:57:08,939:INFO:Standardized date formats.
+2024-11-23 15:57:08,965:INFO:Standardized categorical values.
+2024-11-23 15:57:09,021:INFO:Removed rows with missing critical values.
+2024-11-23 15:57:09,056:INFO:Dropped duplicate rows.
+2024-11-23 15:57:09,056:INFO:Cleaning budget tracking data...
+2024-11-23 15:57:09,073:INFO:Standardized department and category values.
+2024-11-23 15:57:09,073:INFO:Recalculated variances.
+2024-11-23 15:57:09,090:INFO:Filled missing forecast values with mean.
+2024-11-23 15:57:09,090:INFO:Removed rows with missing critical values.
+2024-11-23 15:57:09,090:INFO:Cleaning staffing data...
+2024-11-23 15:57:09,090:INFO:Standardized position and certification status values.
+2024-11-23 15:57:09,111:INFO:Resolved scheduling conflicts.
+2024-11-23 15:57:09,127:INFO:Corrected overtime hours.
+2024-11-23 15:57:09,139:INFO:Removed duplicates and handled missing data.
+2024-11-23 15:57:09,168:INFO:Cleaned data saved to C:/Project/data/cleaned/financial_reporting_data_clean.csv.
+2024-11-23 15:57:09,170:INFO:Cleaned data saved to C:/Project/data/cleaned/budget_tracking_data_clean.csv.
+2024-11-23 15:57:09,170:INFO:Cleaned data saved to C:/Project/data/cleaned/staffing_data_clean.csv.
